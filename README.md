@@ -1,2 +1,2 @@
-https://github.com/Akshay-Jkumar/tic-tac-toe/
+https://akshay-jkumar.github.io/tic-tac-toe/
 # tic-tac-toe
